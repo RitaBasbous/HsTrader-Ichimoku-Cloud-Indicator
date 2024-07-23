@@ -8,7 +8,7 @@ This Python script visualizes the Ichimoku Cloud trading strategy using historic
 
 Ensure you have the requirements file installed.
 
-You can install the file using pip:
+To install the libraries listed in the `requirements.txt` file, use the following command:
 
 ```sh
 pip install -r requirements.txt
