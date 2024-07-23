@@ -4,22 +4,18 @@ Here's an improved version of your `README.md` that enhances readability and flo
 
 # Ichimoku Cloud Indicator with Python
 
+![Ichimoku Plot](img/newplot.png)
+
 This Python script visualizes the Ichimoku Cloud trading strategy using historical market data. The Ichimoku Cloud is a comprehensive technical analysis method providing insights into market momentum, trend direction, and support and resistance levels.
 
 ## Prerequisites
 
-Ensure you have the following Python packages installed:
+Ensure you have the requirements file installed.
 
-- `hstrader`
-- `pandas`
-- `plotly`
-- `python-dotenv`
-- `numpy`
-
-Install these packages using pip:
+toy can Install the file using pip:
 
 ```sh
-pip install <library_name>
+pip install -r requirements.txt
 ```
 
 ## Environment Variables
@@ -96,12 +92,6 @@ The final visualization is an interactive chart that displays:
 - Candlestick representation of price movements.
 - Ichimoku Cloud components with appropriate color coding.
 - Customizable layout options for the chart dimensions and visibility of the range slider.
-
-### Example Plot
-
-Here is an example plot of the Ichimoku Cloud applied to EUR/USD historical data:
-
-![Ichimoku Plot](img/newplot.png)
 
 ## Running the Script
 
