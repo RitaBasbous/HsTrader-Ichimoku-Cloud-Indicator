@@ -1,7 +1,3 @@
-Here's an improved version of your `README.md` that enhances readability and flow:
-
----
-
 # Ichimoku Cloud Indicator with Python
 
 ![Ichimoku Plot](img/newplot.png)
@@ -12,7 +8,7 @@ This Python script visualizes the Ichimoku Cloud trading strategy using historic
 
 Ensure you have the requirements file installed.
 
-toy can Install the file using pip:
+You can install the file using pip:
 
 ```sh
 pip install -r requirements.txt
