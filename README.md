@@ -1,6 +1,6 @@
 # Ichimoku Cloud Indicator with Python
 
-![Ichimoku Plot](img/newplot.png)
+![Ichimoku Plot](img/finalplot.png)
 
 This Python script visualizes the Ichimoku Cloud trading strategy using historical market data. The Ichimoku Cloud is a comprehensive technical analysis method providing insights into market momentum, trend direction, and support and resistance levels.
 
