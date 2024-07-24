@@ -1,6 +1,0 @@
-hstrader
-pandas
-plotly
-python-dotenv
-numpy
-os
